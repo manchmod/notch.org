@@ -1,0 +1,14 @@
+{
+  "name": "notch-org",
+  "compatibility_date": "2026-05-16",
+  "main": "worker.js",
+  "r2_buckets": [
+    {
+      "binding": "FILES",
+      "bucket_name": "notch-org-files"
+    }
+  ],
+  "assets": {
+    "directory": "./public"
+  }
+}
